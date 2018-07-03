@@ -9,20 +9,26 @@
 
 ### 01_智能城市_采用深度学习技术实现架空输电线路无人机缺陷检测
 
-* 01_submission_template.csv
+* [01_submission_template.csv](/files/01_submission_template.csv)
 
 ### 02_智能城市_公路干线物流区域货源供需关系预测与区域间调度的提交模板
 
-* 02_submission_template.csv
+* [02_submission_template.csv](/files/02_submission_template.csv)
 
 ### 06_智能驾驶_驾驶人倦意度及不良驾驶行为高精度辨识
 
-* 06_submission_template.txt
+* [06_submission_template.txt](/files/06_submission_template.txt)
 
 ### 08_智能驾驶_基于视觉技术的车道线检测 
 
-* 08_label_list.txt    label字段为单个json文件的名称，raw_file为对应的图片文件
-* 08_compile_data.py   生成提交文件的脚本 
+* [08_label_list.txt](/files/08_label_list.txt)    label字段为单个json文件的名称，raw_file为对应的图片文件
+* [08_compile_data.py](/files/08_compile_data.py)   生成提交文件的脚本
+
+### 09_智能生活_多目标跨摄像头跟踪
+
+### 11_智能生活_计算机视觉技术在无人零售(衣物)中的检测和识别应用
+
+* [11_submission_template.csv](/files/11_submission_template.csv)
 
 ## 附：赛题说明
 
