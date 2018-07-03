@@ -26,9 +26,23 @@
 
 ### 09_智能生活_多目标跨摄像头跟踪
 
+* [09_submission_sample.json](/files/09_submission_sample.json)
+
 ### 11_智能生活_计算机视觉技术在无人零售(衣物)中的检测和识别应用
 
 * [11_submission_template.csv](/files/11_submission_template.csv)
+
+### 16_智能医疗_牙根CBCT影像智能图像分割
+
+* [16_get_submission.py](/files/16_get_submission.py)    生成提交文件的脚本
+
+### 17_智能制造_电力巡检机器人表针识别算法比赛
+
+* [17_submission_template.txt](/files/17_submission_template.txt)
+
+### 18_智能制造_基于机器学习的工程机械设备故障预测系统
+
+* [18_submission_template.csv](/files/18_submission_template.csv)
 
 ## 附：赛题说明
 
