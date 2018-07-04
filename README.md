@@ -28,6 +28,10 @@
 
 * [09_submission_sample.json](/files/09_submission_sample.json)
 
+### 10_智能生活_基于图像的环境空气质量评价模型构建
+
+* [10_面向选手的说明](/files/10_introduction.pdf) 
+
 ### 11_智能生活_计算机视觉技术在无人零售(衣物)中的检测和识别应用
 
 * [11_submission_template.csv](/files/11_submission_template.csv)
