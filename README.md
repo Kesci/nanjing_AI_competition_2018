@@ -45,7 +45,8 @@
 
 ### 17_智能制造_电力巡检机器人表针识别算法比赛
 
-* [17_submission_template.txt](/files/17_submission_template.txt)
+* [17_submission_A_template.txt](/files/17_submission_A_template.txt)    A榜提交模板
+* [17_submission_B_template.txt](/files/17_submission_B_template.txt)    B榜提交模板
 
 ### 18_智能制造_基于机器学习的工程机械设备故障预测系统
 
