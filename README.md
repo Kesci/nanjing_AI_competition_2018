@@ -39,6 +39,7 @@
 ### 13_智能医疗_肺部结节智能诊断
 
 * [13_submission_sample.csv](/files/13_submission_sample.csv)
+
 ### 16_智能医疗_牙根CBCT影像智能图像分割
 
 * [16_get_submission.py](/files/16_get_submission.py)    生成提交文件的脚本
