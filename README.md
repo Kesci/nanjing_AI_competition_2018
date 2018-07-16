@@ -11,9 +11,13 @@
 
 * [01_submission_template.csv](/files/01_submission_template.csv)
 
-### 02_智能城市_公路干线物流区域货源供需关系预测与区域间调度的提交模板
+### 02_智能城市_公路干线物流区域货源供需关系预测与区域间调度
 
 * [02_submission_template.csv](/files/02_submission_template.csv)
+
+### 04_智能城市_复杂业务场景下的安全身份认证算法
+
+* [提交模板说明](/files/04_submission_template.md)
 
 ### 06_智能驾驶_驾驶人倦意度及不良驾驶行为高精度辨识
 
