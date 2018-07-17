@@ -1,4 +1,4 @@
-idx,fileID,speakerID
+idx,fileID,pred
 1,test_audio_1.wav
 2,test_audio_2.wav
 3,test_audio_3.wav

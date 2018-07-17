@@ -1,4 +1,4 @@
-idx,pic_name,white_list
+idx,pic_name,pred
 1,test_pic_0.bmp
 2,test_pic_1.bmp
 3,test_pic_2.bmp
